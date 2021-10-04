@@ -1,6 +1,6 @@
 This repo contains:
 
-1. Token program cloned from SPL on 4th oct (inside program folder)
+1. Token lending program cloned from SPL on 4th oct (inside program folder)
 2. Cli that I've updated that actually works with it, as of 4th oct (inside js folder)
 
 Every now and then you get the {42} error, which means the oracle goes stale. Dunno how to solve. For now just keep re-running the cli until succeeds.
